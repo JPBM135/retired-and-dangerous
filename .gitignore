@@ -1,0 +1,10 @@
+.DS_STORE
+logs/**/*
+modernfix/**/*
+journeymap/**/*
+world/**/*
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
