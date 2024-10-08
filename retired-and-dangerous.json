@@ -1,6 +1,6 @@
 {
-  "id": "Retired and Dangerous",
-  "time": "2024-06-03T20:53:04-07:00",
+  "id": "retired-and-dangerous",
+  "time": "2024-09-12T13:16:11-07:00",
   "releaseTime": "2023-06-12T13:25:51-07:00",
   "type": "modified",
   "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
@@ -219,7 +219,7 @@
       },
       {
         "values": [
-          "47.3.0"
+          "47.3.10"
         ]
       },
       {
@@ -659,21 +659,21 @@
       }
     },
     {
-      "name": "net.minecraftforge:fmlloader:1.20.1-47.3.0",
+      "name": "net.minecraftforge:fmlloader:1.20.1-47.3.10",
       "artifact": {
-        "sha1": "547850469c8a336b4c60cb8619f6cd421e9e5f55",
-        "size": 264538,
-        "path": "net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar"
+        "sha1": "b76a89fc7afeaef862feb5d2ca4ac2eddafed55b",
+        "size": 264940,
+        "path": "net/minecraftforge/fmlloader/1.20.1-47.3.10/fmlloader-1.20.1-47.3.10.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.20.1-47.3.10/fmlloader-1.20.1-47.3.10.jar"
       }
     },
     {
-      "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.0",
+      "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.10",
       "artifact": {
-        "sha1": "91e33682894f35862e9ce29d633e3258120952f0",
-        "size": 170830,
-        "path": "net/minecraftforge/fmlearlydisplay/1.20.1-47.3.0/fmlearlydisplay-1.20.1-47.3.0.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.0/fmlearlydisplay-1.20.1-47.3.0.jar"
+        "sha1": "1cd7230664c7e7e200f90b0eacea7a193487d81c",
+        "size": 170426,
+        "path": "net/minecraftforge/fmlearlydisplay/1.20.1-47.3.10/fmlearlydisplay-1.20.1-47.3.10.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.10/fmlearlydisplay-1.20.1-47.3.10.jar"
       }
     },
     {
@@ -1831,9 +1831,9 @@
   ],
   "assetIndex": {
     "id": "5",
-    "totalSize": 626891356,
+    "totalSize": 627333274,
     "size": 411980,
-    "url": "https://piston-meta.mojang.com/v1/packages/37d057c5a3633bea6e3246a2875c31ced1642d40/5.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/e489826a4b755e70eeda872f46fe084fccacfd68/5.json"
   },
   "downloads": {
     "client": {
