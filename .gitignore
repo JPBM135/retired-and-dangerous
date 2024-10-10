@@ -10,3 +10,11 @@ usercache.json
 whitelist.json
 natives/**/*
 servers.dat*
+options.txt
+config/Mekanism/client.toml
+config/jei/world/**/*
+config/jei/jei-client*
+crash-reports/**/*
+config/**client**
+config/**/*.hprof
+config/spark/activity.json
