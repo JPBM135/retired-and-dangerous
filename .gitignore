@@ -7,6 +7,7 @@ banned-ips.json
 banned-players.json
 ops.json
 usercache.json
+usernamecache.json
 whitelist.json
 natives/**/*
 servers.dat*
@@ -15,6 +16,10 @@ config/Mekanism/client.toml
 config/jei/world/**/*
 config/jei/jei-client*
 crash-reports/**/*
+config/**/**client**
 config/**client**
 config/**/*.hprof
 config/spark/activity.json
+saves/**/*
+screenshots/**/*
+.qmenu_opened.marker
